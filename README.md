@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently attending Free AWS bootcamp, organised by Andrew Brown.
+- 🌱 I’m currently attending **Free AWS bootcamp, organised by Andrew Brown.**
 
 - 📝 I write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
 
@@ -39,7 +39,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmar
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height"40"/>  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height"40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height"40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height"40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg"  alt="redhat"  width="40" height"40"/>
           
           
           
@@ -47,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-orig
           
           
           
-
+          
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobijollof&show_icons=true&locale=en&layout=compact" alt="jobijollof" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobijollof&show_icons=true&locale=en" alt="jobijollof" /></p>
