@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">A foundational Cloud DevOps Engineer from Nigeria</h3>
+<h3 align="center"> A Cloud DevOps Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobijollof&label=Profile%20views&color=0e75b6&style=flat" alt="jobijollof" /> </p>
 
@@ -17,9 +17,9 @@
 
 
 
-- 🌱 I’m currently learning **Python, Bash scripting and 90days of DevOps Challenge.**
+- 🌱 I’m currently attending ** AWS Free bootcamp, organised by Andrew Brown.**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
+- 📝 I write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
 
 - 📫 How to reach me **jobina.arinze@gmail.com**
 
