@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently attending **Free AWS bootcamp, organised by Andrew Brown.**
+- 🌱 I’m currently attending **The Free AWS bootcamp, organised by Andrew Brown**
 
 - 📝 I write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
 
