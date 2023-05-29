@@ -18,7 +18,7 @@
 
 
 
-- 💻 I’m skilled at  ** building robust CI/CD pipelines using Jenkins, enabling teams to achieve efficient software delivery and continuous integration.**
+- 💻 I’m skilled at   **building robust CI/CD pipelines using Jenkins, enabling teams to achieve efficient software delivery and continuous integration.**
 
 - I'm experienced in configuring Jenkins jobs, implementing build, test, and deployment stages, and integrating various tools and plugins to optimize the pipeline.
 
