@@ -17,15 +17,22 @@
 
 
 
-- 🌱 I’m currently attending **The Free AWS bootcamp, organised by Andrew Brown**
+
+- 💻 I’m skilled at  ** building robust CI/CD pipelines using Jenkins, enabling teams to achieve efficient software delivery and continuous integration.**
+
+- I'm experienced in configuring Jenkins jobs, implementing build, test, and deployment stages, and integrating various tools and plugins to optimize the pipeline.
+
+- 🔧 I'm constantly exploring new ways to improve DevOps practices and enhance team collaboration. I believe in the power of automation and infrastructure-as-code to drive efficiency, scalability, and reliability.
 
 - 📝 I write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
 
+- 📚 Apart from my technical endeavors, you'll often find me immersed in a good book. I love exploring different genres and diving into captivating stories that broaden my horizons. After all, DevOps is about continuous learning, both in code and in literature.
+
+- 🌟 Fun Fact: My wit is as sharp as the pages of a well-written book! I enjoy injecting humor into everyday tasks and believe that laughter is the secret sauce for a productive and enjoyable work environment.
+
+- 📫 Whether you want to discuss CI/CD, Jenkins, Ansible, or simply exchange book recommendations, don't hesitate to reach out. Let's collaborate and create exceptional software while sharing a good laugh or literary insights!
+
 - 📫 How to reach me **jobina.arinze@gmail.com**
-
-- ⚡ Fun fact **I am very witty.**
-
-
 
 
 
