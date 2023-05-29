@@ -32,7 +32,7 @@
 
 - 📫 Whether you want to discuss CI/CD, Jenkins, Ansible, or simply exchange book recommendations, don't hesitate to reach out. Let's collaborate and create exceptional software while sharing a good laugh or literary insights!
 
-- 📫 How to reach me **jobina.arinze@gmail.com**
+- 📫 Reach out to me via email at  **jobina.arinze@gmail.com**
 
 
 
