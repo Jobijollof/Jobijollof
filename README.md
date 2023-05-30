@@ -24,7 +24,7 @@
 
 - 🔧 I'm constantly exploring new ways to improve DevOps practices and enhance team collaboration. I believe in the power of automation and infrastructure-as-code to drive efficiency, scalability, and reliability.
 
-- 📝 I write articles on [https://hashnode.com/@Jobijollof](https://hashnode.com/@Jobijollof)
+- 📝 I write articles on [jobina.hashnode.dev/](https://jobina.hashnode.dev/)
 
 - 📚 Apart from my technical endeavors, you'll often find me immersed in a good book. I love exploring different genres and diving into captivating stories that broaden my horizons. After all, DevOps is about continuous learning, both in code and in literature.
 
